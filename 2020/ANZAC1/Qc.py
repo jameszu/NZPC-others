@@ -1,3 +1,4 @@
+# Rewrite from sample answer, still encounter 1 second time limit error
 import math
 num = int(input())
 diff = 0
@@ -22,6 +23,7 @@ while (num>2):
 			count += 1
 			break
 print(count)
+# Time limit error occurred (1 sec)
 # while num >= 3:
 # 	prime_list = []
 
