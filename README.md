@@ -1,4 +1,4 @@
-# New Zealand Programming Contest & Other programming competitions
+# New Zealand Programming Contest <br> Other programming competitions
 
 2019 NZPC questions and some solutions
 
