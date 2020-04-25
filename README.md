@@ -1,6 +1,6 @@
 # NZPC & Other programming competitions
 
->"Know how to solve every problem that has been solved" 
+>“Know how to solve every problem that has been solved.”
 
 This repository includes the following programming competitions:
 
