@@ -9,3 +9,7 @@ This repository includes the following programming competitions:
 * 2020 ANZAC practice round 1 questions and some solutions
 
 * 2020 ANZAC practice round 2 questions and no solutions yet ; )
+
+* Missed ANZAC practice round 3 rip
+
+* 2020 ANZAC practice round 4 questions and no solutions yet
